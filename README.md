@@ -7,7 +7,7 @@ This is a Snake game made with Java and Java Swing. To play the game, you will n
 To get started, you will need to download the source code for the Snake game. You can do this by cloning the repository:
 
 ```
-git clone https://github.com/yourusername/java-snake-game.git
+git clone git@github.com:Rothoff/Snake.git
 ```
 Once you have the source code, you can compile and run the program in your preferred Java compiler. The main class is SnakeGame.java, which you can run to start the game.
 
